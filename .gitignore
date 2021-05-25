@@ -1,0 +1,10 @@
+.vscode
+
+bin
+objs
+
+data
+config
+
+videos
+output
